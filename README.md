@@ -57,7 +57,7 @@ pip install -r requirements.txt
 After installing the dependencies, run the Python application:
 
 ```bash
-python sentiment_analysis_gradio.py
+python sentiment_analysis_gradio_app.py
 ```
 
 Gradio will start the application and provide a local URL, usually similar to:
