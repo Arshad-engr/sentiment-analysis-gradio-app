@@ -73,7 +73,7 @@ Open this URL in your browser to use the application.
 If you already have the required dependencies installed in your Python environment, you can simply run:
 
 ```bash
-python sentiment_analysis_gradio.py
+python sentiment_analysis_gradio_app.py
 ```
 
 > **Recommended:** Use a virtual environment to avoid dependency conflicts with other Python projects.
